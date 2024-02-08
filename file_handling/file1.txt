@@ -1,0 +1,4 @@
+*********This is sample File to copy **************
+Copy this line
+Copy this line too 
+And this line as well
